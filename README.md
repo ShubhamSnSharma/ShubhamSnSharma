@@ -165,13 +165,15 @@ Built with **zero frameworks** â€” pure Vanilla JS, CSS3, and HTML5 Canvas API â
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Most Commit Language"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShubhamSnSharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight" width="100%" alt="Profile Details"/>
 
 </div>
 
