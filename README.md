@@ -163,15 +163,15 @@ Built with **zero frameworks** â€” pure Vanilla JS, CSS3, and HTML5 Canvas API â
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=ccd6f6&ring_color=6C63FF" height="180" alt="GitHub Stats"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=ccd6f6&langs_count=8" height="180" alt="Top Languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ShubhamSnSharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ShubhamSnSharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8B949E" alt="GitHub Streak"/>
 
 </div>
 
