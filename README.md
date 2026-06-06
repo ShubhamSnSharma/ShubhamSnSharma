@@ -171,7 +171,7 @@ Built with **zero frameworks** â€” pure Vanilla JS, CSS3, and HTML5 Canvas API â
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShubhamSnSharma&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=ccd6f6&sideLabels=ccd6f6&dates=8B949E" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=ShubhamSnSharma&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
