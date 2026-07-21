@@ -20,7 +20,7 @@ I'm a **Computer Science student** passionate about building intelligent systems
 
 My philosophy? **Good tech should make life simpler — not harder.**
 
-Right now I'm channeling that into **InternHunt** — an AI-powered platform that parses resumes, predicts career roles with 99.5% accuracy, and recommends personalized internships, skills, and courses.
+Right now I'm channeling that into **InternHunt** — an AI-powered platform that parses resumes, predicts career roles with 85.3% accuracy, and recommends personalized internships, skills, and courses.
 
 <br>
 
