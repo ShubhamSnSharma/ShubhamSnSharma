@@ -53,61 +53,65 @@ shubham@home:~$
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
-### 👋 Hey there! I'm Shubham
+### 👋 Hey, I'm Shubham
 
-I'm a **Computer Science student** passionate about building intelligent systems that make career growth easier for everyone. I love blending **data, logic, and design** — from training machine learning models to crafting smooth, premium web experiences.
+I'm a **Computer Science student** who enjoys building practical software with **Machine Learning, AI, and Data Analytics**. I like taking ideas from research and turning them into products that people can actually use.
 
-My philosophy? **Good tech should make life simpler — not harder.**
+My current focus is **InternHunt**—an AI-powered career platform that brings together resume analysis, machine learning, internship discovery, and career guidance into a single application.
 
-Right now I'm channeling that into **InternHunt** — an AI-powered platform that parses resumes, predicts career roles with 85.3% accuracy, and recommends personalized internships, skills, and courses.
+I enjoy building end-to-end applications that combine machine learning with thoughtful software engineering—from preparing data and training models to designing interfaces and deploying complete products.
 
 <br>
 
-- 🌍 &nbsp;Based in **Greater Noida, India**
-- 🚀 &nbsp;Currently building **[InternHunt](https://internhunt.streamlit.app/)** — end-to-end, fully deployed
-- 🧠 &nbsp;Deep-diving into **ML, Deep Learning & Full Stack Dev**
-- 🤝 &nbsp;Open to collaborate on **AI/ML tools, data products, and meaningful web apps**
-- 💬 &nbsp;Ask me about: building real products as a student, or why I secretly optimize my resume analyzer more than my own resume 😅
-- 📬 &nbsp;Reach me at **[shubhamsnsharma@gmail.com](mailto:shubhamsnsharma@gmail.com)**
+- 🚀 **Currently Building:** [InternHunt](https://internhunt.streamlit.app/) — an AI-powered career platform
+- 🧠 **Currently Learning:** Machine Learning, Deep Learning & Full Stack Development
+- 🤝 **Interested In:** AI/ML applications, data-driven products, and developer tools
+- 🌍 **Location:** Greater Noida, India
+- 💬 **Ask Me About:** AI, Machine Learning, building projects, or Marvel if we're taking a break ☕
+- 📬 **Reach Me:** [shubhamsnsharma@gmail.com](mailto:shubhamsnsharma@gmail.com)
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Core Stack
 
-<div align="center">
+```text
+shubham@home:~$ stack
 
-**Languages**
+Languages
+├── Python
+├── C++
+├── SQL
+└── JavaScript
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Machine Learning & AI
+├── Scikit-Learn
+├── TensorFlow
+├── Pandas
+├── NumPy
+└── Streamlit
 
-**Frameworks & Libraries**
+Web Development
+├── React
+├── Next.js
+├── HTML5
+├── CSS3
+└── PostgreSQL
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+Tools
+├── Git
+├── VS Code
+├── Jupyter
+└── Vercel
 
-**AI & Tools**
+Currently Exploring
+├── LLM Applications
+├── Prompt Engineering
+└── AI Agents
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
+shubham@home:~$ █
+```
 
 ---
 
@@ -117,81 +121,71 @@ Right now I'm channeling that into **InternHunt** — an AI-powered platform tha
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🎯 InternHunt
-**AI-Powered Internship Platform**
+**AI-Powered Career Platform**
 
-> Resume analysis → Role prediction → Personalized internships
+> Resume analysis → Career prediction → Personalized opportunities
 
-Built end-to-end: a Figma-designed **React/Next.js landing page** on Vercel feeding into a **Python/Streamlit** backend on Streamlit Cloud, wired to **Neon PostgreSQL**.
+An end-to-end AI platform that combines **machine learning, NLP, web scraping, and modern web development** to help students improve their resumes and discover relevant internships.
 
-- 🤖 **99.5% accurate** ML role classifier (Logistic Regression, 25 categories)
-- 📄 NLP-powered resume parser detecting **100+ skills**
-- 🔍 Real-time job scraping from **Jooble + Internshala**
-- 💬 **Gemini AI chatbot** for career guidance
+- 🤖 ML-powered career role prediction
+- 📄 Resume parsing & skill extraction using NLP
+- 🔍 Real-time internship aggregation
+- 💬 AI career assistant with Google Gemini
 - 📊 ATS scoring, gap analysis & admin dashboard
 
 [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-internhuntt.vercel.app-6C63FF?style=flat-square)](https://internhuntt.vercel.app)
-[![App](https://img.shields.io/badge/⚡_App-internhunt.streamlit.app-FF4B4B?style=flat-square)](https://internhunt.streamlit.app)
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/InternHunt)
+[![Application](https://img.shields.io/badge/⚡_Application-internhunt.streamlit.app-FF4B4B?style=flat-square)](https://internhunt.streamlit.app)
+[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/InternHunt)
 
 </td>
+
 <td width="50%">
 
 ### 🌫️ Delhi Air Quality Forecasting
-**Deep Learning vs Classical Stats**
+**Machine Learning & Time Series Analysis**
 
-> PM2.5 forecasting over a 5-year dataset
+> Predicting PM2.5 concentrations using classical and deep learning models
 
-A rigorous **comparative study** pitting classical time series models against deep learning for predicting Delhi's air pollution levels.
+A comparative study evaluating statistical forecasting techniques alongside neural networks for air quality prediction.
 
-- 📈 **SARIMA & Holt-Winters** — classical baselines
-- 🧠 **LSTM (Deep Learning)** — neural sequence modeling
-- 📊 Comprehensive error metric analysis (RMSE, MAE, MAPE)
-- 🗃️ 5+ years of real AQI data
+- 📈 SARIMA & Holt-Winters forecasting
+- 🧠 LSTM deep learning model
+- 📊 RMSE, MAE & MAPE evaluation
+- 🗃️ Five years of real-world AQI data
 
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)
+[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)
 
 </td>
+
 </tr>
+
 <tr>
-<td width="50%">
 
-### ⚖️ Crime Against Women Analysis (India)
-**Social Data Science**
-
-> 1.67M+ NCRB records → Insights that matter
-
-A deep exploratory analysis of crime data across India, uncovering patterns that matter beyond just numbers.
-
-- 🗺️ **State-wise** trend analysis & regional breakdowns
-- ⚖️ **Conviction rate** and judicial backlog analysis
-- 📊 Interactive **Plotly** visualizations
-- 🔍 Year-over-year trend detection with Pandas
-
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/Crime-Against-Women-Analysis-India)
-
-</td>
-<td width="50%">
+<td colspan="2">
 
 ### 🌐 Developer Portfolio
-**99/100 Lighthouse Performance**
+**Modern Frontend Engineering**
 
-> A story, not just a page
+> Designed and developed from scratch with performance and user experience as the priority.
 
-Built with **zero frameworks** — pure Vanilla JS, CSS3, and HTML5 Canvas API — because true control means no abstraction layers.
+A responsive developer portfolio showcasing interactive animations, accessibility, and performance optimisation using modern frontend technologies.
 
-- 🎨 **Canvas API** physics-based particle mesh, mouse-reactive
-- 📜 **Lenis Smooth Scroll** + scroll-driven animations
-- ♿ **100/100 Lighthouse Accessibility** with full ARIA support
-- 🎭 Glassmorphism, fluid typography, responsive across all breakpoints
+- ⚡ 99/100 Lighthouse Performance
+- 🎨 Canvas API particle animations
+- 📜 Smooth scrolling & responsive design
+- ♿ Accessibility-first implementation
 
-[![Live](https://img.shields.io/badge/🌐_Live-shubhamsn.vercel.app-6C63FF?style=flat-square)](https://shubhamsn.vercel.app/)
-[![Repo](https://img.shields.io/badge/📁_Repo-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/portfolio)
+[![Live Website](https://img.shields.io/badge/🌐_Live-shubhamsn.vercel.app-6C63FF?style=flat-square)](https://shubhamsn.vercel.app/)
+[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/portfolio)
 
 </td>
+
 </tr>
+
 </table>
 
 </div>
