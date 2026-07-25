@@ -8,7 +8,7 @@
             .,*//(((((((##%%###((,..                           Uptime: ....... 22 years
           .,,*//(/((###/.,.,.,,*/((@@(    ..                   Host: ......... Bennett University
          .. .....,.,*//,,...,,*//((((((, ...                   Kernel: ....... B.Tech Computer Science & Engineering
-                    ,(#//,..     .,*////. ..                   Languages: .... Python, C++, SQL
+                    ,(#//,        ,*////. ..                   Languages: .... Python, C++, SQL
      ,      ,,,    ,,/##%*//*,,,****/(*(/. ,                   Hobbies: ...... Badminton, Vibe Coding, Movies
             .,*,.   */#%%##*/#####//%%#(//((,                  Location: ..... Greater Noida, India
       *   .,,**,.    ,/////(#%%##((#%##((/*#(,)
@@ -31,7 +31,7 @@ shubham@home:~$ █
 ```
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Full+Stack+Enthusiast;Building+InternHunt;CS+Student+%7C+Greater+Noida%2C+India)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=6C63FF&center=true&vCenter=true&width=720&lines=Machine+Learning+Engineer;AI+%26+Data+Analytics;Building+Practical+AI+Applications;Python+%7C+C%2B%2B+%7C+SQL;Curious+Mind+%E2%80%A2+Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
