@@ -14,21 +14,22 @@
 
 ```text
 
+
               .....,.. .,,....                                  
           . .  . .......,*,..   ..                              
-            .  ....   .,. ..,,**. . .,                          shubham@mirai-os
-                        . ...,,.    . .                         ----------------
-                    .......   .,*,,.   ..                       OS: ......... macOS / Linux / Windows
-              .......,,***///,  .       . .                     Uptime: ..... 20 years, 5 months
-            .,*//(((((((##%%###((,..                            Kernel: ..... MirAI B.Tech Student (AI Builder Track)
-          .,,*//(/((###/.,.,.,,*/((@@(    ..                    Languages: .. Python, TypeScript, JavaScript, C++
-         .. .....,.,*//,,...,,*//((((((, ...                    Frameworks: . React, Next.js, Streamlit, PyTorch
-                 ., ,(#//,...    .,*////. ..                    Hobbies: .... AI Engineering, Data Analytics, Gaming
-     ,     ,*//,.  ,,/##%*//*,,,****/(*(/. ,                    Contact: .... shubhamsnsharma@gmail.com
-            .,*,.   */#%%##*/#####//%%#(//(( ,                  Location: ... Greater Noida, India 🇮🇳
-      *   .,,**,.    ,/////(#%%##((#%##((/*#(,(                 Status: ..... Building InternHunt 🚀
-        .,,,,*,*.       */ ./###%#####(((/*(#((                 GitHub: ..... https://github.com/ShubhamSnSharma
-          ..,,*.     .,/*((#######((((((//,((((                 Portfolio: .. https://shubhamsn.vercel.app
+            .  ....   .,. ..,,**. . .,                      shubham@mirai-os
+                        . ...,,.    . .                     ----------------
+                    .......   .,*,,.   ..                   OS: ......... macOS / Linux / Windows
+ /            .......,,***///,  .       . .                 Uptime: ..... 20 years, 5 months
+            .,*//(((((((##%%###((,..                        Kernel: ..... MirAI B.Tech Student (AI Builder Track)
+          .,,*//(/((###/.,.,.,,*/((@@(    ..                Languages: .. Python, TypeScript, JavaScript, C++
+         .. .....,.,*//,,...,,*//((((((, ...                Frameworks: . React, Next.js, Streamlit, PyTorch
+                 ., ,(#//,...    .,*////. ..                Hobbies: .... AI Engineering, Data Analytics, Gaming
+     ,     ,*//,.  ,,/##%*//*,,,****/(*(/. ,                Contact: .... shubhamsnsharma@gmail.com
+            .,*,.   */#%%##*/#####//%%#(//(( ,              Location: ... Greater Noida, India 🇮🇳
+      *   .,,**,.    ,/////(#%%##((#%##((/*#(,(             Status: ..... Building InternHunt 🚀
+        .,,,,*,*.       */ ./###%#####(((/*(#((             GitHub: ..... https://github.com/ShubhamSnSharma
+          ..,,*.     .,/*((#######((((((//,((((             Portfolio: .. https://shubhamsn.vercel.app
             ...   .. ./((***((/***(((////*,#(#(
                          *(##(/***/((/////,.,
    ,                .,,,,,.***/(((//////**.
@@ -39,7 +40,8 @@
                                   .,**//* .
                                .,**, ...   ...,
                                          ... ...,
-                 .                                              
+                                     ....    .......
+                              .. . .         ..........                                         
 ```
 
 ---
