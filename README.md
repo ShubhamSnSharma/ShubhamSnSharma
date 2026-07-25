@@ -39,15 +39,15 @@ shubham@home:~$
 
 ---
 
-## 📊 GitHub System Analytics (Task 5: Dynamic Open Source Integration)
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ShubhamSnSharma)
+&nbsp;&nbsp;
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShubhamSnSharma)
+
+</div>
 
 ---
 
