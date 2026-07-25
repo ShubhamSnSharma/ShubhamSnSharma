@@ -1,15 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=The%20Learner%20Becoming%20The%20Builder&descSize=16&descAlignY=55&descColor=ccd6f6" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Full+Stack+Enthusiast;Building+InternHunt;CS+Student+%7C+Greater+Noida%2C+India)](https://git.io/typing-svg)
-
-</div>
-
 ---
 
 ```text
@@ -45,6 +33,11 @@
 
 shubham@home:~$
 ```
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Full+Stack+Enthusiast;Building+InternHunt;CS+Student+%7C+Greater+Noida%2C+India)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
