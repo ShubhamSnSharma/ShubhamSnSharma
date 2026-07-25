@@ -9,7 +9,7 @@
           .,,*//(/((###/.,.,.,,*/((@@(    ..                   Host: ......... Bennett University
          .. .....,.,*//,,...,,*//((((((, ...                   Kernel: ....... B.Tech Computer Science & Engineering
                     ,(#//,..     .,*////. ..                   Languages: .... Python, C++, SQL
-     ,   ^**,,,**^ ,,/##%*//*,,,****/(*(/. ,                   Hobbies: ...... Badminton, Vibe Coding, Movies
+     ,      ,,,    ,,/##%*//*,,,****/(*(/. ,                   Hobbies: ...... Badminton, Vibe Coding, Movies
             .,*,.   */#%%##*/#####//%%#(//((,                  Location: ..... Greater Noida, India
       *   .,,**,.    ,/////(#%%##((#%##((/*#(,)
         .,,,,*,*.       */ ./###%#####(((/*(#())               ------------------------------------------
