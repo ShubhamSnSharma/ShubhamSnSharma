@@ -1,24 +1,55 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shubham%20Sharma&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=The%20Learner%20Becoming%20The%20Builder&descSize=16&descAlignY=55&descColor=ccd6f6" width="100%"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=AI+Developer;Data+Analyst;Full+Stack+Enthusiast;Building+InternHunt;CS+Student+%7C+Greater+Noida%2C+India)](https://git.io/typing-svg)
+
+</div>
+
+---
+
 ```text
-       .-----------------.        shubham@mirai-os
-      /   _________     \       ----------------
-     |   /  _   _  \     |      OS: ......... macOS / Linux / Windows
-     |  |  (o) (o)  |    |      Uptime: ..... 20 years, 5 months
-     |  |     <     |    |      Kernel: ..... MirAI B.Tech Student (AI Builder Track)
-     |  |   \___/   |    |      Languages: .. Python, JavaScript, C++, HTML/CSS
-     |   \_________/     |      Hobbies: .... AI Engineering, Gaming, Robotics
-      \_________________/       Contact: .... your.email@example.com
-         /  |     |  \          Status: ..... Building AI tools & applications 🚀
-        /   |_____|   \         GitHub: ..... https://github.com/YOUR_GITHUB_USERNAME
+  ██████╗ ██╗  ██╗
+ ██╔════╝ ██║  ██║
+ ███████╗ ███████║
+ ╚════██╗ ██╔══██║
+ ██████╔╝ ██║  ██║
+
+                              .....,.. .,,....                                  
+                          . .  . .......,*,..   ..                              
+                            .  ....   .,. ..,,**. . .,                          shubham@mirai-os
+                                        . ...,,.    . .                         ----------------
+                                    .......   .,*,,.   ..                       OS: ......... macOS / Linux / Windows
+                 /            .......,,***///,  .       . .                     Uptime: ..... 20 years, 5 months
+                            .,*//(((((((##%%###((,..                            Kernel: ..... MirAI B.Tech Student (AI Builder Track)
+                          .,,*//(/((###/.,.,.,,*/((@@(    ..                    Languages: .. Python, TypeScript, JavaScript, C++
+                         .. .....,.,*//,,...,,*//((((((, ...                    Frameworks: . React, Next.js, Streamlit, PyTorch
+                                 ., ,(#//,...    .,*////. ..                    Hobbies: .... AI Engineering, Data Analytics, Gaming
+                     ,     ,*//,.  ,,/##%*//*,,,****/(*(/. ,                    Contact: .... shubhamsnsharma@gmail.com
+                            .,*,.   */#%%##*/#####//%%#(//(( ,                  Location: ... Greater Noida, India 🇮🇳
+                      *   .,,**,.    ,/////(#%%##((#%##((/*#(,(                 Status: ..... Building InternHunt 🚀
+                        .,,,,*,*.       */ ./###%#####(((/*(#((                 GitHub: ..... https://github.com/ShubhamSnSharma
+                          ..,,*.     .,/*((#######((((((//,((((                 Portfolio: .. https://shubhamsn.vercel.app
+                            ...   .. ./((***((/***(((////*,#(#(
+                                         *(##(/***/((/////,.,
+                   ,                .,,,,,.***/(((//////**.
+                                 ..     . .*//((//////***,
+                         ,         ..,***/((##((///**,,,.*
+                                       ..,,..,,,..     .*/
+                                                     .**/*..
+                                                  .,**//* .
+                                               .,**, ...   ...,
+                                                         ... ...,
+                                 .                                              
 ```
 
 ---
 
-### 📊 GitHub System Analytics
-
-[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
-
+<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
 ### 👋 Hey there! I'm Shubham
 
@@ -50,7 +81,7 @@ Right now I'm channeling that into **InternHunt** — an AI-powered platform tha
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -165,15 +196,13 @@ Built with **zero frameworks** — pure Vanilla JS, CSS3, and HTML5 Canvas API �
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub System Analytics
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="GitHub Stats"/>
+[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ShubhamSnSharma)
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Most Commit Language"/>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShubhamSnSharma)
 
 </div>
 
@@ -208,6 +237,6 @@ Built with **zero frameworks** — pure Vanilla JS, CSS3, and HTML5 Canvas API �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<sub>⭐ If any of my projects helped or inspired you, a star means a lot. Let's build something great together.</sub>
+<sub>⭐ If any of my projects helped or inspired you, a star means a lot. Let me know if you'd like to build something great together.</sub>
 
 </div>
