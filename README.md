@@ -74,7 +74,7 @@ I enjoy building end-to-end applications that combine machine learning with thou
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Technologies I Work With
 
 ```text
 shubham@home:~$ stack
@@ -115,7 +115,7 @@ shubham@home:~$ █
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Things I've Built
 
 <div align="center">
 
@@ -192,7 +192,7 @@ A responsive developer portfolio showcasing interactive animations, accessibilit
 
 ---
 
-## 📈 Activity & Profile Metrics
+## 📈 Development Activity
 
 <div align="center">
 
@@ -200,7 +200,6 @@ A responsive developer portfolio showcasing interactive animations, accessibilit
 &nbsp;&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
 &nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Most Commit Language"/>
 
 </div>
 
