@@ -50,22 +50,17 @@ shubham@home:~$
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub System Analytics (Task 5: Dynamic Open Source Integration)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true" alt="Shubham's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-## 📫 Connect
-
-- 🌐 Portfolio: https://shubhamsn.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/shubhamsnsharma
-- 📧 Email: shubhamsnsharma@gmail.com
-
+---
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
@@ -214,13 +209,15 @@ Built with **zero frameworks** — pure Vanilla JS, CSS3, and HTML5 Canvas API �
 
 ---
 
-## 📊 GitHub System Analytics
+## 📈 Activity & Profile Metrics
 
 <div align="center">
 
-[![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ShubhamSnSharma)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ShubhamSnSharma)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Top Languages by Repo"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShubhamSnSharma&theme=tokyonight" height="180" alt="Most Commit Language"/>
 
 </div>
 
@@ -255,6 +252,6 @@ Built with **zero frameworks** — pure Vanilla JS, CSS3, and HTML5 Canvas API �
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
 
-<sub>⭐ If any of my projects helped or inspired you, a star means a lot. Let me know if you'd like to build something great together.</sub>
+<sub>⭐ If any of my projects helped or inspired you, a star means a lot. Let's build something great together.</sub>
 
 </div>
