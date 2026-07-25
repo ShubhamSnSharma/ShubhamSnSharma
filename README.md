@@ -15,21 +15,21 @@
 ```text
 
 
-              .....,.. .,,....                                  
-          . .  . .......,*,..   ..                              
-            .  ....   .,. ..,,**. . .,                      shubham@mirai-os
-                        . ...,,.    . .                     ----------------
-                    .......   .,*,,.   ..                   OS: ......... macOS / Linux / Windows
- /            .......,,***///,  .       . .                 Uptime: ..... 20 years, 5 months
-            .,*//(((((((##%%###((,..                        Kernel: ..... MirAI B.Tech Student (AI Builder Track)
-          .,,*//(/((###/.,.,.,,*/((@@(    ..                Languages: .. Python, TypeScript, JavaScript, C++
-         .. .....,.,*//,,...,,*//((((((, ...                Frameworks: . React, Next.js, Streamlit, PyTorch
-                 ., ,(#//,...    .,*////. ..                Hobbies: .... AI Engineering, Data Analytics, Gaming
-     ,     ,*//,.  ,,/##%*//*,,,****/(*(/. ,                Contact: .... shubhamsnsharma@gmail.com
-            .,*,.   */#%%##*/#####//%%#(//(( ,              Location: ... Greater Noida, India 🇮🇳
-      *   .,,**,.    ,/////(#%%##((#%##((/*#(,(             Status: ..... Building InternHunt 🚀
-        .,,,,*,*.       */ ./###%#####(((/*(#((             GitHub: ..... https://github.com/ShubhamSnSharma
-          ..,,*.     .,/*((#######((((((//,((((             Portfolio: .. https://shubhamsn.vercel.app
+              .....,.. .,,....
+          . .  . .......,*,..   ..
+            .  ....   .,. ..,,**. . .,                      shubham@home
+                        . ...,,.    . .                     ------------------------------
+                    .......   .,*,,.   ..                   OS: .......... macOS
+ /            .......,,***///,  .       . .                 Uptime: ...... 22 years
+            .,*//(((((((##%%###((,..                        Host: ........ Bennett University
+          .,,*//(/((###/.,.,.,,*/((@@(    ..                Kernel: ...... B.Tech Computer Science & Engineering
+         .. .....,.,*//,,...,,*//((((((, ...                Languages: ... Python, C++, SQL
+                 ., ,(#//,...    .,*////. ..                Interests: ... AI, Machine Learning
+     ,     ,*//,.  ,,/##%*//*,,,****/(*(/. ,                Hobbies: ..... Coding, Data Analytics, Gaming
+            .,*,.   */#%%##*/#####//%%#(//(( ,              Location: .... Greater Noida, India 🇮🇳
+      *   .,,**,.    ,/////(#%%##((#%##((/*#(,(             Contact: ..... shubhamsnsharma@gmail.com
+        .,,,,*,*.       */ ./###%#####(((/*(#((             GitHub: ...... github.com/ShubhamSnSharma
+          ..,,*.     .,/*((#######((((((//,((((             Portfolio: ... shubhamsn.vercel.app
             ...   .. ./((***((/***(((////*,#(#(
                          *(##(/***/((/////,.,
    ,                .,,,,,.***/(((//////**.
@@ -44,7 +44,28 @@
                               .. . .         ..........                                         
 ```
 
+
+shubham@home:~$
+```
+
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+## 📫 Connect
+
+- 🌐 Portfolio: https://shubhamsn.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/shubhamsnsharma
+- 📧 Email: shubhamsnsharma@gmail.com
+
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
 
