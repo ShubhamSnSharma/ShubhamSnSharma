@@ -60,81 +60,236 @@ Every project teaches me something new, and that's what keeps me building. Outsi
 
 ---
 
-## 🚀 Things I've Built
+<!-- ===================================================== -->
+<!--                PROJECT DOSSIERS                        -->
+<!-- ===================================================== -->
 
-<div align="center">
+<h1 align="center">
 
-<table>
-<tr>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW10bDRxM3N0Y2VqbjIwN3NsM2x6aWdxMWY4dWl6emV5a2lqM2M0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="38">
 
-<td width="50%">
+Project Dossiers
 
-### 🎯 InternHunt
-**AI-Powered Career Platform**
+</h1>
 
-> Resume analysis → Career prediction → Personalized opportunities
+<p align="center">
 
-An end-to-end AI platform that combines **machine learning, NLP, web scraping, and modern web development** to help students improve their resumes and discover relevant internships.
+<i>Internal archive documenting the ideas, experiments and products I've built.</i>
 
-- 🤖 ML-powered career role prediction
-- 📄 Resume parsing & skill extraction using NLP
-- 🔍 Real-time internship aggregation
-- 💬 AI career assistant with Google Gemini
-- 📊 ATS scoring, gap analysis & admin dashboard
+</p>
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-internhuntt.vercel.app-6C63FF?style=flat-square)](https://internhuntt.vercel.app)
-[![Application](https://img.shields.io/badge/⚡_Application-internhunt.streamlit.app-FF4B4B?style=flat-square)](https://internhunt.streamlit.app)
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/InternHunt)
+<p align="center">
 
-</td>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Reading+engineering+notes...;Opening+project+archives...;Loading+deployment+records..." />
 
-<td width="50%">
+</p>
 
-### 🌫️ Delhi Air Quality Forecasting
-**Machine Learning & Time Series Analysis**
+---
 
-> Predicting PM2.5 concentrations using classical and deep learning models
+# PRJ-003 • InternHunt
 
-A comparative study evaluating statistical forecasting techniques alongside neural networks for air quality prediction.
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1b-95ff-bb6d7b7d0b9b.gif">
 
-- 📈 SARIMA & Holt-Winters forecasting
-- 🧠 LSTM deep learning model
-- 📊 RMSE, MAE & MAPE evaluation
-- 🗃️ Five years of real-world AQI data
+### STATUS
 
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)
+🟢 **Production**
 
-</td>
+### CATEGORY
 
-</tr>
+AI Career Platform
 
-<tr>
+### MISSION
 
-<td colspan="2">
+Build a single platform where students can improve resumes, evaluate ATS compatibility, discover internships and interact with an AI assistant instead of switching between multiple tools.
 
-### 🌐 Developer Portfolio
-**Modern Frontend Engineering**
+---
 
-> Designed and developed from scratch with performance and user experience as the priority.
+### CAPABILITIES
 
-A responsive developer portfolio showcasing interactive animations, accessibility, and performance optimisation using modern frontend technologies.
+▣ Resume Parsing
 
-- ⚡ 99/100 Lighthouse Performance
-- 🎨 Canvas API particle animations
-- 📜 Smooth scrolling & responsive design
-- ♿ Accessibility-first implementation
+▣ ATS Analysis
 
-[![Live Website](https://img.shields.io/badge/🌐_Live-shubhamsn.vercel.app-6C63FF?style=flat-square)](https://shubhamsn.vercel.app/)
-[![Repository](https://img.shields.io/badge/📁_Repository-GitHub-181717?style=flat-square&logo=github)](https://github.com/ShubhamSnSharma/portfolio)
+▣ Career Prediction
 
-</td>
+▣ Internship Discovery
 
-</tr>
+▣ Gemini AI Assistant
 
-</table>
+▣ Admin Dashboard
 
-</div>
+---
 
+### TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=python,streamlit,mysql"/>
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
+
+---
+
+### ENGINEERING NOTES
+
+```diff
++ Designed a modular Streamlit architecture.
+
++ Integrated Gemini API with persistent conversation memory.
+
++ Built a MySQL-backed authentication system.
+
++ Improved prompt reliability through iterative testing.
+
++ Focused on creating an end-to-end AI experience instead of isolated tools.
+```
+
+---
+
+### ACCESS POINTS
+
+🌐 **Live Website**  
+https://internhuntt.vercel.app
+
+⚡ **Live Application**  
+https://internhunt.streamlit.app
+
+📂 **GitHub Repository**  
+https://github.com/ShubhamSnSharma/InternHunt
+
+---
+
+<br clear="right">
+
+---
+
+# PRJ-002 • Delhi Air Quality Forecasting
+
+<img align="left" width="180" src="https://user-images.githubusercontent.com/74038190/212749695-4b88c4dc-9a8d-4cb3-a48f-4d48c5d97d16.gif">
+
+<br>
+
+### STATUS
+
+🔵 Research Complete
+
+### CATEGORY
+
+Machine Learning
+
+### MISSION
+
+Investigate whether deep learning models outperform classical forecasting methods for PM2.5 prediction.
+
+---
+
+### CAPABILITIES
+
+▣ LSTM Forecasting
+
+▣ SARIMA
+
+▣ Holt-Winters
+
+▣ Time-Series Analysis
+
+▣ Model Comparison
+
+---
+
+### TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas"/>
+
+---
+
+### ENGINEERING NOTES
+
+```diff
++ Learned sequence modelling.
+
++ Compared statistical and neural forecasting techniques.
+
++ Built evaluation pipelines for forecasting accuracy.
+
++ Strengthened understanding of time-series modelling.
+```
+
+---
+
+### ACCESS POINTS
+
+📂 GitHub Repository
+
+https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting
+
+---
+
+<br clear="left">
+
+---
+
+# PRJ-001 • Developer Portfolio
+
+<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/212750222-f6f85efb-c3b4-4e66-aef6-4a3a07f2e6fb.gif">
+
+### STATUS
+
+🟢 Live
+
+### CATEGORY
+
+Web Development
+
+### MISSION
+
+Create a portfolio that represents both technical ability and attention to design.
+
+---
+
+### CAPABILITIES
+
+▣ Responsive UI
+
+▣ Interactive Animations
+
+▣ Accessibility
+
+▣ Performance Optimisation
+
+▣ Modern Design
+
+---
+
+### TECHNOLOGIES
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
+
+---
+
+### ENGINEERING NOTES
+
+```diff
++ Improved UI consistency.
+
++ Optimised Lighthouse performance.
+
++ Implemented reusable React components.
+
++ Designed a modern user experience.
+```
+
+---
+
+### ACCESS POINTS
+
+🌐 Portfolio
+
+https://shubhamsn.vercel.app
+
+📂 Repository
+
+https://github.com/ShubhamSnSharma/shubhamsnportfolio
+
+---
 ---
 
 ## 📈 Development Activity
