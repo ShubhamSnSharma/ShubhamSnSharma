@@ -60,237 +60,93 @@ Every project teaches me something new, and that's what keeps me building. Outsi
 
 ---
 
-<!-- ===================================================== -->
-<!--                PROJECT DOSSIERS                        -->
-<!-- ===================================================== -->
+<!-- =========================================================== -->
+<!--                     ENGINEERING LOG                          -->
+<!-- =========================================================== -->
 
 <h1 align="center">
-
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW10bDRxM3N0Y2VqbjIwN3NsM2x6aWdxMWY4dWl6emV5a2lqM2M0eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="38">
-
-Project Dossiers
-
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f58f88a.gif" width="38"><br>
+  Engineering Log
 </h1>
 
-<p align="center">
-
-<i>Internal archive documenting the ideas, experiments and products I've built.</i>
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=2500&color=58A6FF&center=true&vCenter=true&width=700&lines=Reading+engineering+notes...;Opening+project+archives...;Loading+deployment+records..." />
-
-</p>
+<p align="center"><i>Building software, documenting lessons, shipping improvements.</i></p>
 
 ---
 
-# PRJ-003 • InternHunt
+## 🎯 InternHunt
 
-<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/216656977-ef584e23-480a-4d1b-95ff-bb6d7b7d0b9b.gif">
+> **AI Career Platform**
 
-### STATUS
-
-🟢 **Production**
-
-### CATEGORY
-
-AI Career Platform
-
-### MISSION
-
-Build a single platform where students can improve resumes, evaluate ATS compatibility, discover internships and interact with an AI assistant instead of switching between multiple tools.
-
----
-
-### CAPABILITIES
-
-▣ Resume Parsing
-
-▣ ATS Analysis
-
-▣ Career Prediction
-
-▣ Internship Discovery
-
-▣ Gemini AI Assistant
-
-▣ Admin Dashboard
-
----
-
-### TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=python,streamlit,mysql"/>
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=gemini"/>
-
----
-
-### ENGINEERING NOTES
-
-```diff
-+ Designed a modular Streamlit architecture.
-
-+ Integrated Gemini API with persistent conversation memory.
-
-+ Built a MySQL-backed authentication system.
-
-+ Improved prompt reliability through iterative testing.
-
-+ Focused on creating an end-to-end AI experience instead of isolated tools.
+```text
+ID         ENG-003
+STATUS     ● LIVE
+FOCUS      Artificial Intelligence
+STACK      Python · Streamlit · Gemini · MySQL
 ```
 
----
+A unified platform that helps students analyse resumes, evaluate ATS compatibility, discover internships and receive AI-powered career guidance.
 
-### ACCESS POINTS
+**Shipped**
 
-🌐 **Live Website**  
-https://internhuntt.vercel.app
+`Resume Parser` • `ATS Analysis` • `Career Prediction` • `Internship Discovery` • `Gemini Assistant`
 
-⚡ **Live Application**  
-https://internhunt.streamlit.app
+> 💡 **Biggest Lesson**
+>
+> Great AI products aren't built around models—they're built around user workflows.
 
-📂 **GitHub Repository**  
-https://github.com/ShubhamSnSharma/InternHunt
-
----
-
-<br clear="right">
+🌐 **[Website](https://internhuntt.vercel.app)** • ⚡ **[Live Demo](https://internhunt.streamlit.app)** • 📂 **[Repository](https://github.com/ShubhamSnSharma/InternHunt)**
 
 ---
 
-# PRJ-002 • Delhi Air Quality Forecasting
+## 🌫 Delhi Air Quality Forecasting
 
-<img align="left" width="180" src="https://user-images.githubusercontent.com/74038190/212749695-4b88c4dc-9a8d-4cb3-a48f-4d48c5d97d16.gif">
+> **Machine Learning Research**
 
-<br>
-
-### STATUS
-
-🔵 Research Complete
-
-### CATEGORY
-
-Machine Learning
-
-### MISSION
-
-Investigate whether deep learning models outperform classical forecasting methods for PM2.5 prediction.
-
----
-
-### CAPABILITIES
-
-▣ LSTM Forecasting
-
-▣ SARIMA
-
-▣ Holt-Winters
-
-▣ Time-Series Analysis
-
-▣ Model Comparison
-
----
-
-### TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pandas"/>
-
----
-
-### ENGINEERING NOTES
-
-```diff
-+ Learned sequence modelling.
-
-+ Compared statistical and neural forecasting techniques.
-
-+ Built evaluation pipelines for forecasting accuracy.
-
-+ Strengthened understanding of time-series modelling.
+```text
+ID         ENG-002
+STATUS     ● COMPLETE
+FOCUS      Time-Series Forecasting
+STACK      Python · TensorFlow · Pandas
 ```
 
----
+Compared statistical forecasting techniques with deep learning models to analyse long-term PM2.5 prediction performance.
 
-### ACCESS POINTS
+**Implemented**
 
-📂 GitHub Repository
+`LSTM` • `SARIMA` • `Holt-Winters` • `Model Evaluation`
 
-https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting
+> 💡 **Biggest Lesson**
+>
+> Better data often improves predictions more than a more complex model.
 
----
-
-<br clear="left">
-
----
-
-# PRJ-001 • Developer Portfolio
-
-<img align="right" width="180" src="https://user-images.githubusercontent.com/74038190/212750222-f6f85efb-c3b4-4e66-aef6-4a3a07f2e6fb.gif">
-
-### STATUS
-
-🟢 Live
-
-### CATEGORY
-
-Web Development
-
-### MISSION
-
-Create a portfolio that represents both technical ability and attention to design.
+📂 **[Repository](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)**
 
 ---
 
-### CAPABILITIES
+## 🌐 Developer Portfolio
 
-▣ Responsive UI
+> **Personal Website**
 
-▣ Interactive Animations
-
-▣ Accessibility
-
-▣ Performance Optimisation
-
-▣ Modern Design
-
----
-
-### TECHNOLOGIES
-
-<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind"/>
-
----
-
-### ENGINEERING NOTES
-
-```diff
-+ Improved UI consistency.
-
-+ Optimised Lighthouse performance.
-
-+ Implemented reusable React components.
-
-+ Designed a modern user experience.
+```text
+ID         ENG-001
+STATUS     ● LIVE
+FOCUS      Frontend Engineering
+STACK      Next.js · React · Tailwind
 ```
 
----
+Designed and developed a portfolio focused on performance, accessibility and creating a polished first impression.
 
-### ACCESS POINTS
+**Built**
 
-🌐 Portfolio
+`Responsive UI` • `Animations` • `Accessibility` • `Performance`
 
-https://shubhamsn.vercel.app
+> 💡 **Biggest Lesson**
+>
+> Good design isn't decoration—it's how people experience your work.
 
-📂 Repository
+🌐 **[Website](https://shubhamsn.vercel.app)** • 📂 **[Repository](https://github.com/ShubhamSnSharma/shubhamsnportfolio)**
 
-https://github.com/ShubhamSnSharma/shubhamsnportfolio
-
----
----
+------
 
 ## 📈 Development Activity
 
