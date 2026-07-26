@@ -44,21 +44,17 @@ shubham@home:~$ █
 
 ### 👋 Hey, I'm Shubham
 
-I like building things and understanding how they work.
+I like building things and figuring out how they work.
 
-Most of my projects start with a simple question: **"Can I build this?"** From there, I enjoy figuring things out one step at a time—learning new concepts, solving problems, and turning ideas into something useful.
+Most of my projects start with a simple question: **"Can I build this?"** From there, I enjoy learning new concepts, solving problems, and turning ideas into something useful. I enjoy building complete applications where machine learning, AI, data, and software come together.
 
-I enjoy working with Machine Learning, AI, Data Analytics, and Software Engineering, but what I enjoy even more is putting them together to build complete applications. For me, the most rewarding part isn't just getting something to work—it's understanding why it works and finding ways to make it better.
-
-Every project teaches me something new, and that's what keeps me building.
-
-Outside of coding, you'll usually find me playing badminton, watching movies, or exploring a new tool just because it looked interesting.
+Every project teaches me something new, and that's what keeps me building. Outside of coding, you'll usually find me playing badminton, watching movies, or exploring a new tool just because it looked interesting.
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Technologies I Work With
+## 🛠️ Tech Stack
 
 ```text
 shubham@home:~$ stack
