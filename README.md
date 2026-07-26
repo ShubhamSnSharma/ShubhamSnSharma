@@ -36,8 +36,11 @@ shubham@home:~$ █
 </div>
 
 ---
-
-<img align="right" width="360" src="YOUR_GIF_LINK_HERE">
+<img
+  align="right"
+  width="380"
+  src="./assets/terminal.gif"
+  alt="Animated terminal showing a playful debugging session">
 
 ### 👋 Hey, I'm Shubham
 
