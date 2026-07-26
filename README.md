@@ -54,44 +54,80 @@ Every project teaches me something new, and that's what keeps me building. Outsi
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
+
+```bash
+shubham@home:~$ stack --inspect
+```
 
 ```text
-shubham@home:~$ stack
+Inspecting development environment...
 
-Languages
-├── Python
-├── C++
-├── SQL
-└── JavaScript
+✓ Languages ............... LOADED
+✓ AI Engine ............... ONLINE
+✓ Database ............... CONNECTED
+✓ Toolchain .............. READY
 
-Machine Learning & AI
-├── Scikit-Learn
-├── TensorFlow
-├── Pandas
-├── NumPy
-└── Streamlit
-
-Web Development
-├── React
-├── Next.js
-├── HTML5
-├── CSS3
-└── PostgreSQL
-
-Tools
-├── Git
-├── VS Code
-├── Jupyter
-└── Vercel
-
-Currently Exploring
-├── LLM Applications
-├── Prompt Engineering
-└── AI Agents
-
-shubham@home:~$ █
+Environment ready.
 ```
+
+<p align="center">
+
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,mysql&theme=dark&perline=4"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🤖 AI Engine
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,tensorflow,pandas,numpy,plotly,streamlit" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🗄 Database
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark&perline=2"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🛠 Toolchain
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark&perline=4"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Streamlit_Cloud-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+
+</p>
+
+---
+
+<p align="center">
+
+### 🚀 Loading Next Modules...
+
+`AI Agents` • `LLM Applications` • `Prompt Engineering` • `RAG` • `NLP`
+
+</p>
 
 ---
 
