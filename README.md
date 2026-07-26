@@ -37,24 +37,19 @@ shubham@home:~$ █
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<img align="right" width="360" src="YOUR_GIF_LINK_HERE">
 
 ### 👋 Hey, I'm Shubham
 
-I'm a **Computer Science student** who enjoys building practical software with **Machine Learning, AI, and Data Analytics**. I like taking ideas from research and turning them into products that people can actually use.
+I like building things and understanding how they work.
 
-My current focus is **InternHunt**—an AI-powered career platform that brings together resume analysis, machine learning, internship discovery, and career guidance into a single application.
+Most of my projects start with a simple question: **"Can I build this?"** From there, I enjoy figuring things out one step at a time—learning new concepts, solving problems, and turning ideas into something useful.
 
-I enjoy building end-to-end applications that combine machine learning with thoughtful software engineering—from preparing data and training models to designing interfaces and deploying complete products.
+I enjoy working with Machine Learning, AI, Data Analytics, and Software Engineering, but what I enjoy even more is putting them together to build complete applications. For me, the most rewarding part isn't just getting something to work—it's understanding why it works and finding ways to make it better.
 
-<br>
+Every project teaches me something new, and that's what keeps me building.
 
-- 🚀 **Currently Building:** [InternHunt](https://internhunt.streamlit.app/) — an AI-powered career platform
-- 🧠 **Currently Learning:** Machine Learning, Deep Learning & Full Stack Development
-- 🤝 **Interested In:** AI/ML applications, data-driven products, and developer tools
-- 🌍 **Location:** Greater Noida, India
-- 💬 **Ask Me About:** AI, Machine Learning, building projects, or Marvel if we're taking a break ☕
-- 📬 **Reach Me:** [shubhamsnsharma@gmail.com](mailto:shubhamsnsharma@gmail.com)
+Outside of coding, you'll usually find me playing badminton, watching movies, or exploring a new tool just because it looked interesting.
 
 <br clear="right"/>
 
