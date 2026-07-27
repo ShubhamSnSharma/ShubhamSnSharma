@@ -174,7 +174,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 ------
 
-## 📊 Development Dashboard
+## Development Dashboard
 
 <p align="center">
 <img width="49%" src="https://github-stats-shubham.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&rank_icon=github" />
