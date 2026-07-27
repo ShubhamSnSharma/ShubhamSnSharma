@@ -22,12 +22,7 @@ jobs:
           github_user_name: ShubhamSnSharma
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - name: Make dark snake visible
-        run: |
-          sed -i 's/#000000/#A855F7/g' dist/github-contribution-grid-snake-dark.svg
-          sed -i 's/black/#A855F7/g' dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=%23A855F7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
