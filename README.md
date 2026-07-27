@@ -192,7 +192,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 -----
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -242,19 +242,13 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 <div align="center">
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-           Profile Status
-
-Learning        ████████████ 100%
-Building        ███████████░  95%
-Curiosity       ████████████ 100%
-Challenges      Accepted ✔
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```python
+while True:
+    learn()
+    build()
+    improve()
 ```
 
-<sub><b>Always exploring, always improving.</b></sub>
+<sub><b>Thanks for visiting.</b> See you in the next commit. </sub>
 
 </div>
