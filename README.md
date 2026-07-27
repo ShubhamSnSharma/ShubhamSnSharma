@@ -196,10 +196,45 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-shubhamsn.vercel.app-6C63FF?style=for-the-badge)](https://shubhamsn.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhamsnsharma/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shubhamsnsharma@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShubhamSnSharma)
+<table>
+<tr>
+
+<td align="center">
+<a href="https://shubhamsn.vercel.app/" target="_blank">
+<img src="https://skillicons.dev/icons?i=vercel" height="45"/><br>
+<b>Portfolio</b>
+</a>
+</td>
+
+<td width="55"></td>
+
+<td align="center">
+<a href="https://www.linkedin.com/in/shubhamsnsharma/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/><br>
+<b>LinkedIn</b>
+</a>
+</td>
+
+<td width="55"></td>
+
+<td align="center">
+<a href="mailto:shubhamsnsharma@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45"/><br>
+<b>Email</b>
+</a>
+</td>
+
+<td width="55"></td>
+
+<td align="center">
+<a href="https://github.com/ShubhamSnSharma" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/><br>
+<b>GitHub</b>
+</a>
+</td>
+
+</tr>
+</table>
 
 </div>
 
@@ -207,8 +242,19 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<sub>⭐ If any of my projects helped or inspired you, a star means a lot. Let's build something great together.</sub>
+           Profile Status
+
+Learning        ████████████ 100%
+Building        ███████████░  95%
+Curiosity       ████████████ 100%
+Challenges      Accepted ✔
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<sub><b>Always exploring, always improving.</b></sub>
 
 </div>
