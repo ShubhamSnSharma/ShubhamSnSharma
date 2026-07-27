@@ -170,7 +170,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 >
 > Great portfolios aren't remembered for the frameworks they use—they're remembered for the experience they create.
 
-[Website](https://shubhamsn.vercel.app) · [GitHub](https://github.com/ShubhamSnSharma/shubhamsnportfolio)
+[Website](https://shubhamsn.vercel.app) · [GitHub](https://github.com/ShubhamSnSharma/portfolio)
 
 ------
 
