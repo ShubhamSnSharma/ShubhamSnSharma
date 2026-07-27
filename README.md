@@ -175,7 +175,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 ------
 
 <!-- =========================================================== -->
-<!--                 DEVELOPMENT DASHBOARD                       -->
+<!--                 DEVELOPMENT INSIGHTS                        -->
 <!-- =========================================================== -->
 
 <h1 align="center">
@@ -190,39 +190,50 @@ Development Dashboard
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 </p>
 
+<!-- Repository Summary -->
+
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true"/>
-
-&nbsp;&nbsp;
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+<img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight"
+    alt="GitHub Profile Summary"/>
 
 </div>
 
 <br>
 
+<!-- Contribution Activity -->
+
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight"/>
+<img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=60A5FA&area=true&hide_border=true"
+    alt="GitHub Contribution Activity Graph"/>
 
 </div>
+
+<hr width="96%">
+
+<div align="center">
+
+<img
+    width="96%"
+    src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"/>
+
+</div>
+
+<p align="center">
+<sub>Live GitHub contribution activity</sub>
+</p>
 
 <br>
 
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=60A5FA&area=true&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
