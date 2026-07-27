@@ -174,67 +174,20 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 
 ------
 
-<!-- =========================================================== -->
-<!--                 DEVELOPMENT INSIGHTS                        -->
-<!-- =========================================================== -->
-
-<h1 align="center">
-Development Dashboard
-</h1>
+## 📊 Development Dashboard
 
 <p align="center">
-<i>Repository insights, contribution history and development analytics.</i>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 </p>
 
 <p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-
-<!-- Repository Summary -->
-
-<div align="center">
-
-<img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight"
-    alt="GitHub Profile Summary"/>
-
-</div>
-
-<br>
-
-<!-- Contribution Activity -->
-
-<div align="center">
-
-<img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=60A5FA&area=true&hide_border=true"
-    alt="GitHub Contribution Activity Graph"/>
-
-</div>
-
-<hr width="96%">
-
-<div align="center">
-
-<img
-    width="96%"
-    src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"/>
-
-</div>
 
 <p align="center">
-<sub>Live GitHub contribution activity</sub>
+  <img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
-
-<br>
-
-<p align="center">
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-</p>
-
 ---
 
 ## 🤝 Let's Connect
