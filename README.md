@@ -177,18 +177,20 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 ## 📊 Development Dashboard
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSnSharma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
+<img width="49%" src="https://github-stats-shubham.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&rank_icon=github" />
+
+<img width="49%" src="https://github-stats-shubham.vercel.app/api/pin/?username=ShubhamSnSharma&repo=InternHunt&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&theme=tokyo-night&hide_border=true&area=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ShubhamSnSharma&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+<img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg"/>
 </p>
----
+
+-----
 
 ## 🤝 Let's Connect
 
