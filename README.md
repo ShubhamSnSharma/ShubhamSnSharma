@@ -179,7 +179,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 <p align="center">
 <img width="49%" src="https://github-stats-shubham.vercel.app/api?username=ShubhamSnSharma&show_icons=true&theme=tokyonight&hide_border=true&hide=stars&rank_icon=github" />
 
-<img width="49%" src="https://github-stats-shubham.vercel.app/api/pin/?username=ShubhamSnSharma&repo=InternHunt&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight"/>
 </p>
 
 <p align="center">
