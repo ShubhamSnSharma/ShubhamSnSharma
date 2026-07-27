@@ -58,93 +58,119 @@ Every project teaches me something new, and that's what keeps me building. Outsi
   <img src="./assets/tech-stack.svg" width="900" alt="Development Environment Dashboard">
 </p>
 
----
-
 <!-- =========================================================== -->
-<!--                     ENGINEERING LOG                          -->
+<!--                    ENGINEERING LOG                          -->
 <!-- =========================================================== -->
 
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f58f88a.gif" width="38"><br>
+  <img src="https://user-images.githubusercontent.com/74038190/212747919-84b68444-0d81-46db-a338-7ec50f58f88a.gif" width="42"><br>
   Engineering Log
 </h1>
 
-<p align="center"><i>Building software, documenting lessons, shipping improvements.</i></p>
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=2500&color=8B949E&center=true&vCenter=true&width=480&height=22&lines=Production+Builds;Machine+Learning+Research;Interactive+Web+Experiences" />
+</p>
+
+<p align="center">
+<i>A curated collection of projects, architecture decisions and engineering notes.</i>
+</p>
+
+<p align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
 
 ---
 
-## 🎯 InternHunt
+# InternHunt
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=streamlit" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn" height="18">
+</p>
 
 > **AI Career Platform**
 
 ```text
-ID         ENG-003
-STATUS     ● LIVE
-FOCUS      Artificial Intelligence
-STACK      Python · Streamlit · Gemini · MySQL
+STATUS      ● LIVE
+DOMAIN      Artificial Intelligence
+BUILT ON    Python • Streamlit • Gemini API • PostgreSQL • spaCy • scikit-learn
+DEPLOYED    Streamlit Cloud • Vercel
 ```
 
-A unified platform that helps students analyse resumes, evaluate ATS compatibility, discover internships and receive AI-powered career guidance.
+An AI-powered career platform that helps students analyse resumes, evaluate ATS compatibility, discover internships and receive conversational career guidance through a unified workflow.
 
-**Shipped**
+**Core Features**
 
-`Resume Parser` • `ATS Analysis` • `Career Prediction` • `Internship Discovery` • `Gemini Assistant`
+`Resume Intelligence` • `ATS Compatibility Engine` • `Career Prediction` • `Gemini AI Assistant` • `Internship Discovery` • `Analytics Dashboard`
 
-> 💡 **Biggest Lesson**
+> **Takeaway**
 >
-> Great AI products aren't built around models—they're built around user workflows.
+> Building accurate AI was only half the challenge. Designing an intuitive workflow that students would actually use had a much bigger impact on the final product.
 
-🌐 **[Website](https://internhuntt.vercel.app)** • ⚡ **[Live Demo](https://internhunt.streamlit.app)** • 📂 **[Repository](https://github.com/ShubhamSnSharma/InternHunt)**
+[Website](https://internhuntt.vercel.app) · [Live Demo](https://internhunt.streamlit.app) · [GitHub](https://github.com/ShubhamSnSharma/InternHunt)
 
 ---
 
-## 🌫 Delhi Air Quality Forecasting
+# Delhi Air Quality Forecasting
 
-> **Machine Learning Research**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" height="18">
+</p>
+
+> **Time-Series Forecasting**
 
 ```text
-ID         ENG-002
-STATUS     ● COMPLETE
-FOCUS      Time-Series Forecasting
-STACK      Python · TensorFlow · Pandas
+STATUS      ● COMPLETE
+DOMAIN      Machine Learning
+BUILT ON    Python • TensorFlow • statsmodels • Pandas • scikit-learn
 ```
 
-Compared statistical forecasting techniques with deep learning models to analyse long-term PM2.5 prediction performance.
+Compared classical statistical forecasting techniques with deep learning models to analyse long-term PM2.5 prediction performance and evaluate where increased model complexity provides meaningful improvements.
 
-**Implemented**
+**Core Features**
 
-`LSTM` • `SARIMA` • `Holt-Winters` • `Model Evaluation`
+`LSTM Forecasting` • `SARIMA` • `Holt-Winters` • `Model Benchmarking` • `Performance Evaluation`
 
-> 💡 **Biggest Lesson**
+> **Takeaway**
 >
-> Better data often improves predictions more than a more complex model.
+> Better forecasts came from understanding the data rather than simply choosing a more complex model.
 
-📂 **[Repository](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)**
+[GitHub](https://github.com/ShubhamSnSharma/Delhi-Air-Quality-Forecasting)
 
 ---
 
-## 🌐 Developer Portfolio
+# Interactive Portfolio
 
-> **Personal Website**
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" height="18">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" height="18">
+</p>
+
+> **Personal Web Experience**
 
 ```text
-ID         ENG-001
-STATUS     ● LIVE
-FOCUS      Frontend Engineering
-STACK      Next.js · React · Tailwind
+STATUS      ● LIVE
+DOMAIN      Frontend Engineering
+BUILT ON    HTML5 • CSS3 • JavaScript • Canvas API • Lenis
+DEPLOYED    Vercel
 ```
 
-Designed and developed a portfolio focused on performance, accessibility and creating a polished first impression.
+A handcrafted portfolio focused on smooth interactions, custom animations and modern browser APIs to create an immersive browsing experience without relying on heavyweight frontend frameworks.
 
-**Built**
+**Core Features**
 
-`Responsive UI` • `Animations` • `Accessibility` • `Performance`
+`Glassmorphism UI` • `Canvas Animations` • `Interactive Background` • `Lenis Smooth Scrolling` • `Responsive Design`
 
-> 💡 **Biggest Lesson**
+> **Takeaway**
 >
-> Good design isn't decoration—it's how people experience your work.
+> Great portfolios aren't remembered for the frameworks they use—they're remembered for the experience they create.
 
-🌐 **[Website](https://shubhamsn.vercel.app)** • 📂 **[Repository](https://github.com/ShubhamSnSharma/shubhamsnportfolio)**
+[Website](https://shubhamsn.vercel.app) · [GitHub](https://github.com/ShubhamSnSharma/shubhamsnportfolio)
 
 ------
 
