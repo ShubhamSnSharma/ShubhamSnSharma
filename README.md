@@ -220,7 +220,7 @@ Development Dashboard
 
 <img
     width="96%"
-    src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake.svg"
     alt="GitHub Contribution Snake"/>
 
 </div>
