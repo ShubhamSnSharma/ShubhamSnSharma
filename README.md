@@ -81,7 +81,7 @@ Every project teaches me something new, and that's what keeps me building. Outsi
 
 ---
 
-# InternHunt
+## InternHunt
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="18">
@@ -113,7 +113,7 @@ An AI-powered career platform that helps students analyse resumes, evaluate ATS 
 
 ---
 
-# Delhi Air Quality Forecasting
+## Delhi Air Quality Forecasting
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=python" height="18">
@@ -143,7 +143,7 @@ Compared classical statistical forecasting techniques with deep learning models 
 
 ---
 
-# Interactive Portfolio
+## Interactive Portfolio
 
 <p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html" height="18">
