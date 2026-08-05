@@ -183,11 +183,7 @@ A handcrafted portfolio focused on smooth interactions, custom animations and mo
 </p>
 
 <p align="center">
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShubhamSnSharma&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg?v=2"/>
+<img width="100%" src="https://raw.githubusercontent.com/ShubhamSnSharma/ShubhamSnSharma/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 -----
